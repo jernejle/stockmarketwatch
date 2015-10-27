@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>res/images/add.png</file>
+        <file>res/images/remove.png</file>
+        <file>res/images/chart.png</file>
+        <file>res/images/index_up.png</file>
+        <file>res/images/index_down.png</file>
+        <file>res/images/sync.png</file>
+        <file>res/images/chart_descend.png</file>
+    </qresource>
+    <qresource prefix="/Files">
+        <file alias="symbols">res/symbols.txt</file>
+    </qresource>
+</RCC>
